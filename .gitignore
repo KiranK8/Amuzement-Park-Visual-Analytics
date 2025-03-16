@@ -1,0 +1,22 @@
+# do not upload large datasets
+data/*
+!data/readme.md
+A*/data/*
+!A*/data/.gitkeep
+
+!A3_groupAnalysis/data/groups.csv
+
+# tutorial output
+tutorial/example.db
+tutorial/circles.html
+
+# in case someone wants a personal testing area
+testing
+
+# temporary files
+__pycache__
+.DS_Store
+.directory
+.ipynb_checkpoints
+*.kate-swp
+.~lock.*
