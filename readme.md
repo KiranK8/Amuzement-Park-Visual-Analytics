@@ -1,8 +1,4 @@
-## Visual Analytics Assignments
-
-This repository contains the templates for the assignments of lecture Visual Analytics.
-
-
+## Visual Analytics - Amusement Park
 ### Application scenario
 
 In most of the assignments we will work on the VAST Challenge 2015.
